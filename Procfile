@@ -1,0 +1,1 @@
+web: gunicorn placements_1:app
