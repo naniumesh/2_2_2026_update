@@ -1,4 +1,3 @@
-from turtle import back
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -528,3 +527,4 @@ with tabs[2]:
     st.plotly_chart(fig4, use_container_width=True)
 
 st.caption("Placement Intelligence Apex | 10-Year Enterprise System | NAGA ASHOK 2026")
+
