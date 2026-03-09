@@ -1,1 +1,1 @@
-web: streamlit run placements_1.py --server.port $PORT --server.address 0.0.0.0
+web: gunicorn placements_1:app
