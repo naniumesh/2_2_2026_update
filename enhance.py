@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -3591,5 +3590,3 @@ with tabs[4]:
 
             st.success("   Company Drive Registered Successfully")
             st.json(company_data)
-
->>>>>>> 43594b3dd7f94255b760a96df82a5ed34877bb8b
