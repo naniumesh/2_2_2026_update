@@ -1,0 +1,254 @@
+/* =========================
+   ROOT DESIGN SYSTEM
+========================= */
+:root {
+    --primary: #4f46e5;
+    --primary-light: #6366f1;
+    --accent: #22c55e;
+    --danger: #ef4444;
+
+    --bg: #f8fafc;
+    --card: #ffffff;
+    --border: #e2e8f0;
+
+    --text: #0f172a;
+    --subtext: #64748b;
+}
+
+/* =========================
+   GLOBAL
+========================= */
+html, body, .stApp {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+}
+
+/* =========================
+   HEADER
+========================= */
+.main-header {
+    background: linear-gradient(90deg, var(--primary), var(--primary-light));
+    color: white;
+    padding: 18px 24px;
+    border-radius: 14px;
+    font-size: 26px;
+    font-weight: 600;
+    box-shadow: 0 10px 30px rgba(79,70,229,0.25);
+}
+
+/* =========================
+   CARDS
+========================= */
+.card {
+    background: var(--card);
+    border-radius: 16px;
+    padding: 20px;
+    border: 1px solid var(--border);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.05);
+    transition: 0.25s ease;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 28px rgba(0,0,0,0.08);
+}
+
+/* =========================
+   KPI CARDS
+========================= */
+.kpi-card {
+    background: linear-gradient(135deg, #ffffff, #f1f5f9);
+    border-radius: 14px;
+    padding: 18px;
+    border: 1px solid var(--border);
+    text-align: center;
+    transition: 0.3s;
+}
+
+.kpi-card:hover {
+    transform: scale(1.03);
+}
+
+.kpi-title {
+    font-size: 13px;
+    color: var(--subtext);
+}
+
+.kpi-value {
+    font-size: 28px;
+    font-weight: bold;
+    color: var(--text);
+}
+
+.kpi-delta {
+    font-size: 13px;
+    color: var(--accent);
+}
+
+/* =========================
+   BUTTONS
+========================= */
+button[kind="primary"] {
+    background: linear-gradient(90deg,var(--primary),var(--primary-light)) !important;
+    color: white !important;
+    border-radius: 10px !important;
+    border: none !important;
+    height: 42px;
+    transition: 0.3s;
+}
+
+button[kind="primary"]:hover {
+    transform: scale(1.03);
+}
+
+button[kind="secondary"] {
+    background: #e2e8f0 !important;
+    color: var(--text) !important;
+    border-radius: 10px !important;
+}
+
+/* =========================
+   INPUT FIELDS
+========================= */
+.stTextInput input,
+.stSelectbox div,
+.stNumberInput input {
+    border-radius: 10px !important;
+    border: 1px solid var(--border) !important;
+    background: white !important;
+}
+
+/* =========================
+   SIDEBAR
+========================= */
+section[data-testid="stSidebar"] {
+    background: var(--card);
+    border-right: 1px solid var(--border);
+}
+
+/* =========================
+   TABS
+========================= */
+button[data-baseweb="tab"] {
+    background: #eef2ff;
+    border-radius: 8px;
+    margin: 2px;
+}
+
+button[data-baseweb="tab"][aria-selected="true"] {
+    background: var(--primary);
+    color: white;
+}
+
+/* =========================
+   METRICS
+========================= */
+[data-testid="metric-container"] {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 12px;
+    border: 1px solid var(--border);
+}
+
+/* =========================
+   PROGRESS BAR
+========================= */
+.stProgress > div > div > div {
+    background: linear-gradient(90deg,var(--primary),var(--primary-light));
+}
+
+/* =========================
+   LOGIN UI
+========================= */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+
+.login-card {
+    width: 420px;
+    padding: 35px;
+    border-radius: 18px;
+    background: white;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.08);
+    border: 1px solid var(--border);
+    text-align: center;
+}
+
+.login-title {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.login-sub {
+    font-size: 14px;
+    color: var(--subtext);
+}
+
+/* =========================
+   CLEAN STREAMLIT DEFAULTS
+========================= */
+header {visibility: hidden;}
+footer {visibility: hidden;}
+
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* =========================
+   GLASS EFFECT (MAIN UI)
+========================= */
+.glass {
+    background: rgba(255,255,255,0.7);
+    backdrop-filter: blur(14px);
+    border-radius: 16px;
+    padding: 18px;
+    border: 1px solid rgba(255,255,255,0.3);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    margin-bottom: 15px;
+}
+
+/* =========================
+   CHIP TAGS (SKILLS)
+========================= */
+.chip {
+    display: inline-block;
+    padding: 6px 12px;
+    margin: 4px;
+    background: linear-gradient(90deg,#6366f1,#4f46e5);
+    color: white;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+/* =========================
+   LOGIN BOX FIX
+========================= */
+.login-box {
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.1);
+    border: 1px solid var(--border);
+}
+
+/* =========================
+   PLOTLY CHART STYLE
+========================= */
+.js-plotly-plot {
+    border-radius: 12px;
+    overflow: hidden;
+    background: white;
+    padding: 10px;
+}
+
+/* =========================
+   SCROLL FIX
+========================= */
+section.main > div {
+    padding-top: 1rem;
+}

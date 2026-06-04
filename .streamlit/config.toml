@@ -1,0 +1,9 @@
+[server]
+maxUploadSize = 200
+enableCORS = false
+
+[runner]
+fastReruns = true
+
+[theme]
+base="dark"

@@ -1,0 +1,501 @@
+CompanyID,Company,Industry,Headquarters,Employees,Founded,Tier,Difficulty_Index
+1,"Dhar, Ahluwalia and Pathak",Consulting,Solapur,84237,1984,Tier1,4.78
+2,Bawa and Sons,IT,Durgapur,23375,2015,Tier3,2.21
+3,"Shankar, Yogi and Thakkar",Manufacturing,Dhanbad,35720,2016,Tier2,5.5
+4,"Biswas, Nagar and Balakrishnan",Finance,Jodhpur,48589,2012,Tier1,7.75
+5,"Gera, Deol and Ganguly",Consulting,Morbi,39509,2017,Tier3,3.63
+6,Andra-Sharaf,IT,Singrauli,79761,2005,Tier1,2.57
+7,Gill Inc,Consulting,Burhanpur,32830,1981,Tier3,6.44
+8,Savant-Bava,Finance,Firozabad,81152,2001,Tier3,8.33
+9,Sagar-Bala,Consulting,Bhilai,61137,2003,Tier2,5.67
+10,"Issac, Sane and Palan",Finance,Allahabad,69768,2018,Tier2,1.78
+11,Dalal Group,Finance,Mirzapur,9699,2009,Tier2,4.03
+12,"Sani, Din and Bora",Consulting,Lucknow,47102,1992,Tier3,9.82
+13,Garde-Bera,Consulting,Allahabad,39530,1985,Tier1,6.58
+14,Raju-Ranganathan,Consulting,Nangloi Jat,63683,2016,Tier3,9.75
+15,Rai-Verma,Manufacturing,Sultan Pur Majra,45076,1991,Tier2,1.25
+16,Zacharia LLC,IT,Vijayawada,23152,2019,Tier1,5.81
+17,Solanki-Dey,Finance,Bhavnagar,74252,1980,Tier2,8.62
+18,Agate-Kant,Consulting,Salem,44888,1994,Tier2,3.37
+19,Walia and Sons,Manufacturing,Jaunpur,87396,2016,Tier3,9.94
+20,"Uppal, Thakur and Prabhu",Manufacturing,Belgaum,25622,2009,Tier2,2.82
+21,"Lad, Panchal and Shroff",Consulting,Jalna,32683,1980,Tier1,9.45
+22,"Vohra, Korpal and Badami",Consulting,Chapra,72568,2011,Tier2,1.96
+23,"Choudhary, Dave and Johal",Manufacturing,Ghaziabad,22279,1987,Tier1,3.21
+24,Issac Group,Consulting,Bhilwara,38179,1985,Tier3,3.42
+25,Pathak-Salvi,Consulting,Mangalore,65523,1981,Tier3,5.54
+26,Deshpande Inc,Manufacturing,Phusro,29911,1997,Tier3,3.35
+27,"Mammen, Misra and Gandhi",Manufacturing,Thiruvananthapuram,21149,2010,Tier3,4.05
+28,Keer LLC,Manufacturing,Kottayam,91745,1981,Tier1,5.64
+29,"Pandya, Batra and Banerjee",Manufacturing,Kishanganj,1640,2005,Tier1,3.03
+30,Tandon Ltd,Manufacturing,Serampore,83729,1985,Tier2,4.11
+31,Dubey Inc,IT,Mathura,63742,1997,Tier3,2.41
+32,Koshy PLC,Finance,Kozhikode,65221,2020,Tier3,6.38
+33,Dash Group,Finance,Bilaspur,84283,2012,Tier2,3.55
+34,Batta-Chaudhari,Manufacturing,Serampore,27827,1999,Tier1,9.73
+35,"Bhavsar, Patla and Sridhar",IT,Pimpri-Chinchwad,7428,2004,Tier1,3.83
+36,"Hayre, Dhawan and Nair",Consulting,Guntur,99494,1995,Tier2,2.93
+37,Ratta PLC,IT,Ulhasnagar,26041,2011,Tier1,4.34
+38,Chana-Bir,Manufacturing,Orai,28226,1997,Tier2,9.53
+39,"Grewal, Parekh and Atwal",Finance,Kolkata,98121,2012,Tier1,6.84
+40,"Sagar, Sharma and Butala",Consulting,Tadipatri,28934,1985,Tier3,5.4
+41,Chaudhry-Bava,Finance,Mathura,82880,1987,Tier1,8.09
+42,Khatri-Doctor,Finance,Siliguri,69458,2014,Tier1,9.96
+43,Upadhyay PLC,Manufacturing,Munger,56636,2002,Tier2,7.72
+44,"Seth, Dugal and Bajaj",Finance,Anantapuram,89468,2017,Tier1,6.43
+45,Ganguly PLC,Manufacturing,Karaikudi,25368,1981,Tier2,3.48
+46,"Agate, Halder and Saxena",Consulting,Kakinada,51911,1987,Tier3,3.12
+47,Kala-Buch,IT,Hazaribagh,61012,1989,Tier1,3.11
+48,"Kakar, Goel and Gala",IT,Gangtok,12030,1984,Tier1,2.71
+49,"Hans, Chopra and Kannan",Manufacturing,Siliguri,49866,1999,Tier2,2.42
+50,Devan Group,Manufacturing,Aligarh,66951,1990,Tier1,9.36
+51,"Ravel, Varkey and Solanki",Manufacturing,Patna,17407,1994,Tier2,6.94
+52,Sengupta Ltd,IT,Aurangabad,24392,1994,Tier2,9.34
+53,Kale PLC,Manufacturing,Saharsa,96620,1984,Tier1,9.25
+54,Sodhi-Joshi,IT,Guntakal,37339,2018,Tier3,5.03
+55,"Bhavsar, Taneja and Vora",Consulting,Etawah,36960,2007,Tier2,5.92
+56,Kohli Ltd,Manufacturing,Berhampore,81463,2013,Tier1,9.64
+57,Lad-Chowdhury,IT,Rourkela,18982,2005,Tier1,2.51
+58,"Nanda, Arya and Mital",Consulting,Bidhannagar,16990,1983,Tier3,6.25
+59,"Subramaniam, Bal and Madan",Finance,Jamalpur,31864,1980,Tier3,2.15
+60,Maharaj and Sons,Consulting,Uluberia,23703,1982,Tier3,6.72
+61,"Cheema, Tella and Ram",IT,Guwahati,81191,2000,Tier2,8.63
+62,"Majumdar, Sachdeva and Ramachandran",Consulting,Gandhinagar,17978,1987,Tier2,2.83
+63,"Iyengar, Rout and Om",Finance,Rourkela,25346,1993,Tier1,9.92
+64,Balan Group,Manufacturing,Shivpuri,9622,2011,Tier2,4.9
+65,Wali Ltd,IT,Secunderabad,81106,2004,Tier2,7.03
+66,Verma PLC,Manufacturing,Kottayam,72809,2001,Tier1,6.55
+67,"Chadha, Rau and Ratti",Finance,Bettiah,13380,2019,Tier3,6.0
+68,Sarraf PLC,IT,Bhatpara,29276,1996,Tier1,6.04
+69,Choudhary Group,Manufacturing,Bhind,45814,1989,Tier1,4.85
+70,Toor-Rajan,Consulting,Orai,90629,1997,Tier3,4.44
+71,"Kalita, Chaudry and Bajwa",IT,Tiruvottiyur,31726,1988,Tier1,3.3
+72,Sem Group,IT,Amaravati,17811,1994,Tier3,9.24
+73,Dani-Sunder,IT,Kadapa,44515,2018,Tier1,7.85
+74,"Pandey, Dar and Bhasin",Consulting,Madurai,45535,1992,Tier3,7.84
+75,"Rajan, Oommen and Balakrishnan",Consulting,Jhansi,95606,1981,Tier3,5.9
+76,"Chauhan, Mukherjee and Lad",Finance,Hazaribagh,71091,1985,Tier3,9.92
+77,Mittal PLC,Manufacturing,Thoothukudi,31201,1985,Tier2,2.83
+78,Raval-Rajagopalan,Finance,Farrukhabad,77646,1981,Tier3,7.54
+79,Seshadri LLC,Finance,Kumbakonam,34072,2001,Tier3,8.95
+80,"Bhandari, Mallick and Divan",Consulting,Shahjahanpur,79750,1990,Tier3,2.19
+81,"Narula, Bhakta and Apte",IT,Uluberia,63962,1989,Tier3,7.93
+82,Dugal LLC,Manufacturing,Bangalore,97242,1994,Tier3,2.7
+83,Desai-Srivastava,IT,Lucknow,41744,1995,Tier1,7.06
+84,Korpal LLC,Finance,Ahmedabad,40549,1995,Tier1,3.58
+85,Bhasin Inc,IT,Bhalswa Jahangir Pur,25981,1989,Tier2,8.64
+86,Ghosh Inc,Manufacturing,Khandwa,79133,1994,Tier2,3.98
+87,"Talwar, Rout and Sundaram",Consulting,Karawal Nagar,38768,2006,Tier2,8.72
+88,"Dara, Virk and Sharaf",Manufacturing,Bhiwandi,68697,2008,Tier2,5.85
+89,Shan-Suri,Manufacturing,Surat,31256,1984,Tier1,4.75
+90,Mahal-Sabharwal,Manufacturing,Nangloi Jat,93414,1991,Tier2,3.15
+91,Parekh LLC,Manufacturing,Tinsukia,52463,1995,Tier1,3.5
+92,Subramanian-Gera,Finance,Anand,11946,2007,Tier3,7.95
+93,"Naik, Hans and Seth",IT,Jamnagar,92038,2014,Tier1,5.91
+94,Mutti-Date,IT,Madhyamgram,47468,1988,Tier1,5.13
+95,Kashyap-Chowdhury,Finance,Pune,29462,1983,Tier2,9.32
+96,Jayaraman-Loyal,Manufacturing,Bhusawal,35268,1992,Tier1,8.39
+97,Kulkarni Ltd,Manufacturing,Katihar,10731,1994,Tier3,1.18
+98,Sankaran-Kant,IT,Salem,90097,2006,Tier1,2.4
+99,"Sidhu, Saha and Rout",Consulting,Bhilwara,71184,2017,Tier2,6.18
+100,Buch-Trivedi,Consulting,Tadepalligudem,54919,2016,Tier2,9.2
+101,"Baral, Krishnan and Gade",IT,Bhilai,89789,1982,Tier2,1.5
+102,Chauhan Group,Consulting,Panipat,53111,1985,Tier2,9.9
+103,Ram Inc,IT,New Delhi,31740,2005,Tier2,9.14
+104,"Srinivas, Baral and Baral",Finance,Farrukhabad,63279,2009,Tier3,4.22
+105,"Mand, Bali and Pandey",IT,Ahmedabad,7861,1987,Tier3,5.65
+106,Prabhakar-Sant,IT,Tirunelveli,86322,1983,Tier1,2.31
+107,Ray-Bhakta,Finance,South Dumdum,31318,2000,Tier3,7.94
+108,"Cheema, Dutt and Korpal",Finance,Rewa,31222,2005,Tier3,4.85
+109,"Sahota, Nagy and Gulati",IT,Jammu,99168,2003,Tier3,7.69
+110,"Narasimhan, Ben and Chaudhary",IT,Bhiwani,47923,2014,Tier3,4.07
+111,Sagar-Solanki,Manufacturing,Faridabad,55111,2014,Tier3,4.32
+112,Bandi-Kala,Manufacturing,Shimoga,6445,1997,Tier1,6.53
+113,Munshi-Dora,IT,Aizawl,12054,2004,Tier1,7.53
+114,Chowdhury PLC,Manufacturing,Ujjain,12301,2019,Tier3,6.85
+115,"Srinivasan, Kade and Ghose",Consulting,Fatehpur,15432,2013,Tier3,5.6
+116,Shroff Ltd,IT,Nanded,2194,2003,Tier2,4.13
+117,"Gokhale, Sibal and Sarma",IT,Gandhidham,37664,1991,Tier3,4.31
+118,Rana PLC,Manufacturing,Nagercoil,58609,1986,Tier2,9.08
+119,"Hans, Nagar and Bassi",Consulting,Hospet,62776,2016,Tier3,2.84
+120,"Patel, Soni and Bhasin",IT,Loni,94851,1987,Tier1,4.78
+121,Mani-Sathe,Consulting,Sambhal,48889,1984,Tier3,2.34
+122,Vaidya Group,Manufacturing,Sonipat,86910,1995,Tier2,3.5
+123,Khare-Kapadia,Consulting,Ghaziabad,5070,2019,Tier2,4.52
+124,"Mody, Sharaf and Nagy",Finance,Tadepalligudem,59244,1992,Tier1,7.18
+125,Deol-Sharma,Manufacturing,Nadiad,84603,2006,Tier2,1.41
+126,Bhagat PLC,Finance,Thoothukudi,43737,1980,Tier3,5.02
+127,"Sekhon, Korpal and Patla",Consulting,Mysore,71454,1996,Tier3,4.23
+128,Karnik LLC,IT,Haridwar,40106,2002,Tier2,6.24
+129,Agrawal LLC,Manufacturing,Allahabad,41762,1994,Tier2,7.75
+130,Kamdar PLC,IT,Etawah,1512,2002,Tier2,4.01
+131,Bhatnagar-Rajan,Finance,Orai,11314,1984,Tier3,6.44
+132,Naik-Varughese,IT,Tadepalligudem,41960,2013,Tier2,9.91
+133,Viswanathan Group,Manufacturing,Dhanbad,43378,1992,Tier1,4.03
+134,"Menon, Murty and Borah",Manufacturing,Bettiah,94367,2020,Tier1,2.54
+135,De-Khalsa,Manufacturing,Indore,85226,1997,Tier2,7.23
+136,"Kalla, Nanda and Upadhyay",Finance,Aligarh,92926,2003,Tier3,8.62
+137,Balasubramanian-Borra,Finance,Jamnagar,30496,1987,Tier3,3.83
+138,Sachar PLC,Consulting,Gudivada,38098,1989,Tier3,9.38
+139,Chada LLC,Consulting,Bellary,72803,1987,Tier3,6.7
+140,Bajaj-Saha,Manufacturing,Bardhaman,9241,2007,Tier2,9.02
+141,"Lal, Venkataraman and Vora",IT,North Dumdum,44625,1984,Tier2,9.88
+142,"Krish, Sehgal and Bath",IT,Bhiwani,56503,1982,Tier2,1.89
+143,Grewal-Pandit,Finance,Satna,22968,2019,Tier3,3.63
+144,"Buch, Patil and Chaudry",Consulting,Raipur,66411,1996,Tier2,6.63
+145,Raju-Kapadia,IT,Jamshedpur,12933,2001,Tier2,5.78
+146,Doshi and Sons,Consulting,Gurgaon,56049,1998,Tier1,2.63
+147,Ben Group,Finance,Kollam,67476,1990,Tier2,7.29
+148,"Hayre, Mohan and Walla",Manufacturing,Mira-Bhayandar,26821,1986,Tier3,5.27
+149,"Mukhopadhyay, Varty and Garg",IT,Bathinda,42391,1994,Tier3,7.66
+150,Goel Ltd,Manufacturing,Tadepalligudem,60905,1996,Tier1,9.61
+151,"Krishna, Batra and Chand",Consulting,Hospet,84757,1996,Tier1,3.77
+152,Loyal-Soni,Finance,Nangloi Jat,15934,2012,Tier3,7.68
+153,Bhakta-Sastry,Finance,Karaikudi,85934,2009,Tier3,9.7
+154,"Prabhu, Chowdhury and Wali",Finance,Avadi,1595,2008,Tier3,2.42
+155,Nagi and Sons,Manufacturing,Bettiah,24321,2000,Tier2,4.28
+156,More Group,Manufacturing,Thanjavur,84625,2002,Tier2,8.42
+157,"Contractor, Dass and Bajaj",IT,Munger,98442,1997,Tier2,2.86
+158,"Sood, Date and Batra",Consulting,Nagercoil,28765,2009,Tier1,4.92
+159,Mannan-Chaudhari,Manufacturing,Ahmedabad,36996,1991,Tier3,3.37
+160,Wali LLC,IT,Ozhukarai,6414,1981,Tier2,6.1
+161,Tandon Ltd,Finance,Medininagar,16262,2018,Tier2,7.17
+162,Solanki LLC,Consulting,Ghaziabad,91784,2019,Tier1,7.75
+163,Narula-Thakkar,IT,Tadepalligudem,24904,2010,Tier3,9.51
+164,Bhatia LLC,Finance,Bhagalpur,79446,2013,Tier2,3.42
+165,Anne-Venkataraman,IT,Hindupur,21079,1993,Tier3,1.22
+166,Khare PLC,Finance,Bongaigaon,64835,2009,Tier3,3.31
+167,Nayak Group,Manufacturing,Jalgaon,16786,1986,Tier1,2.76
+168,"Bir, Gola and Mall",Finance,Hindupur,17605,2013,Tier1,7.35
+169,Varughese-Khalsa,Manufacturing,Ludhiana,83470,2013,Tier1,3.1
+170,Tak Ltd,Finance,Varanasi,23819,1991,Tier1,6.4
+171,Rastogi PLC,Finance,Dhanbad,43648,2019,Tier2,9.08
+172,Bobal and Sons,IT,Mehsana,50580,1995,Tier3,8.42
+173,Roy-Pillay,IT,Haridwar,69227,1984,Tier1,7.43
+174,Parmar Group,Manufacturing,Guwahati,590,1986,Tier2,8.03
+175,Chauhan-Anand,Manufacturing,Bhubaneswar,85860,2015,Tier1,5.92
+176,Nori Group,Manufacturing,Ratlam,83006,1986,Tier3,8.51
+177,Konda and Sons,Consulting,Aizawl,72250,1993,Tier1,5.45
+178,Shah LLC,Finance,Adoni,52768,1990,Tier2,6.26
+179,Dutta PLC,Finance,Sonipat,23509,1984,Tier3,1.97
+180,"Khosla, Venkataraman and Choudhry",Finance,Bhilwara,7363,1990,Tier2,5.23
+181,"Maharaj, Sampath and Kunda",IT,Durg,20826,2014,Tier2,3.77
+182,"Das, Thakkar and Sandhu",IT,Ambattur,2020,1987,Tier2,7.51
+183,Devan Ltd,Manufacturing,Warangal,95456,2000,Tier3,4.37
+184,Varty-Korpal,Manufacturing,South Dumdum,34245,2004,Tier2,3.24
+185,"Sur, Halder and Muni",Manufacturing,Sasaram,48692,2013,Tier2,8.25
+186,Gara-Dubey,Consulting,Bongaigaon,32373,2019,Tier2,4.31
+187,Dua-Mitra,Finance,Mirzapur,88480,1982,Tier1,6.29
+188,"Bhardwaj, Vig and Goyal",IT,Hazaribagh,54660,2002,Tier1,2.78
+189,Deep Inc,IT,Vijayanagaram,65281,1994,Tier2,3.83
+190,Dar Inc,Consulting,Nashik,61994,1986,Tier3,4.36
+191,D’Alia Inc,Manufacturing,Indore,37116,1994,Tier2,6.86
+192,"Gade, Raj and Ganesan",Finance,Mumbai,21964,2018,Tier1,4.92
+193,"Contractor, Pandit and Shanker",IT,Hyderabad,37617,2014,Tier3,4.18
+194,"Pradhan, Bhandari and Balan",Manufacturing,Chandrapur,43875,1982,Tier3,9.9
+195,Ravel and Sons,Finance,Tumkur,23109,2013,Tier3,3.13
+196,Gole-Rajagopal,Finance,Bhiwandi,60393,2005,Tier1,2.99
+197,"Bhasin, Sampath and Sood",IT,Secunderabad,47967,1992,Tier1,2.35
+198,Comar-Behl,IT,Bangalore,83585,1997,Tier3,1.63
+199,Gupta Group,Manufacturing,Bikaner,71640,2009,Tier1,2.37
+200,Suresh and Sons,IT,Varanasi,40855,2011,Tier3,9.39
+201,"Bal, Konda and Contractor",Manufacturing,Vellore,5688,2016,Tier1,4.23
+202,Varughese-Kaul,Manufacturing,Dhule,36853,1986,Tier2,9.56
+203,Sarin-Dhar,Manufacturing,Bijapur,4427,1989,Tier3,8.25
+204,"Lall, Hegde and Menon",Consulting,Kota,31866,1983,Tier3,7.7
+205,Rajagopalan-Narayan,Consulting,Rajkot,94896,1995,Tier3,9.56
+206,Choudhry-Sura,IT,Visakhapatnam,46222,2003,Tier3,1.54
+207,"Chhabra, Yogi and Srivastava",IT,Thrissur,45637,2007,Tier2,1.95
+208,Garg-Gulati,IT,Munger,44480,1990,Tier1,5.23
+209,Johal-Dey,Consulting,Bhiwandi,8966,2006,Tier2,1.76
+210,Sheth Group,Finance,Surendranagar Dudhrej,86418,2006,Tier3,6.9
+211,Dara-Upadhyay,Finance,Siliguri,64962,1989,Tier1,5.37
+212,"Sridhar, Narang and Choudhury",IT,Aurangabad,386,2014,Tier3,9.34
+213,Khare-Edwin,Consulting,Munger,72186,1999,Tier1,4.1
+214,Choudhry-Sami,Finance,Gorakhpur,18512,1997,Tier1,5.27
+215,Puri-Balay,IT,Warangal,68789,1994,Tier1,2.38
+216,"Saxena, Naidu and Mall",Finance,Warangal,20023,1986,Tier3,7.74
+217,Madan-Mannan,Consulting,Tumkur,47025,1998,Tier2,4.36
+218,Pandit Group,Finance,Hajipur,43594,2003,Tier3,8.54
+219,"Bail, Dada and Gaba",IT,Loni,8168,2004,Tier2,7.32
+220,"Mangal, Garde and Nadkarni",Manufacturing,Mirzapur,68003,1994,Tier3,2.9
+221,More-Sandal,Finance,Dindigul,66270,1992,Tier1,9.46
+222,"Kulkarni, Memon and Dave",Finance,Morbi,62132,1992,Tier3,1.12
+223,Verma LLC,Manufacturing,Dehri,17878,1986,Tier1,1.03
+224,Bail-Dutta,Consulting,Sangli-Miraj & Kupwad,44140,1984,Tier2,2.81
+225,Merchant Inc,Manufacturing,Vasai-Virar,61913,2003,Tier3,2.05
+226,"Nagi, Mander and Swaminathan",Finance,Hazaribagh,5016,2018,Tier1,9.5
+227,Dhawan-Chowdhury,Finance,Sambalpur,395,2018,Tier3,5.13
+228,Vora-Zachariah,IT,Guntur,59635,2006,Tier3,3.97
+229,Bains LLC,IT,Haridwar,1334,2019,Tier1,1.28
+230,"Hans, Gandhi and Vaidya",Manufacturing,Ramgarh,77108,2016,Tier1,8.23
+231,"Nagi, Oza and Gill",IT,Nizamabad,69172,2019,Tier2,4.4
+232,"Kumer, Brahmbhatt and Dutt",IT,Morbi,31027,2005,Tier1,9.53
+233,"Sanghvi, Sampath and Ranganathan",Manufacturing,Shahjahanpur,66436,1982,Tier3,6.45
+234,Korpal Inc,Finance,Adoni,74134,1980,Tier1,7.36
+235,Varty and Sons,Manufacturing,Ratlam,74571,2000,Tier3,2.01
+236,Badami Inc,Manufacturing,Gangtok,1149,2001,Tier1,1.51
+237,"Tella, Rana and Basu",Consulting,Bulandshahr,4914,1994,Tier2,4.78
+238,Dhawan-Luthra,IT,Medininagar,7900,2015,Tier3,9.4
+239,"Vohra, Ratta and Bora",Consulting,Dindigul,56534,1994,Tier2,9.22
+240,Keer Ltd,Consulting,Haridwar,48049,1994,Tier1,1.79
+241,Swaminathan-Nori,Manufacturing,Berhampore,32567,2005,Tier2,6.45
+242,Joshi and Sons,Manufacturing,Chennai,25313,1989,Tier2,3.32
+243,Nayar-Puri,Consulting,Mahbubnagar,77512,2009,Tier3,8.53
+244,Dada LLC,IT,Chinsurah,15454,2016,Tier1,9.4
+245,Dugal-Chakrabarti,Consulting,Hapur,83867,1992,Tier3,4.24
+246,Jhaveri Inc,IT,Madhyamgram,58581,2017,Tier1,1.04
+247,Mukherjee-Sachar,Manufacturing,Jalandhar,21106,2004,Tier3,7.87
+248,Tara-Gokhale,IT,Gandhinagar,58589,1993,Tier2,1.0
+249,Master-Karan,Finance,Anantapur,34858,1985,Tier2,4.98
+250,Ramanathan-Ganesh,Manufacturing,Rewa,64976,2011,Tier1,7.67
+251,Shah PLC,Manufacturing,Dewas,84349,2000,Tier3,3.08
+252,Chaudhry LLC,Manufacturing,Rampur,2933,2008,Tier1,9.57
+253,Contractor-Chaudhuri,Consulting,Nellore,40159,1994,Tier2,5.59
+254,"Gopal, Tiwari and Pandya",IT,Chittoor,79056,2002,Tier3,1.65
+255,Patla LLC,IT,Warangal,3304,2005,Tier3,8.22
+256,Chokshi-Chada,Consulting,Buxar,20745,2019,Tier1,2.34
+257,Balan PLC,Finance,Vellore,19001,2014,Tier3,8.9
+258,"Magar, Anand and Dara",IT,Kochi,39172,1980,Tier3,1.64
+259,Thakur-Swamy,Consulting,Jorhat,26316,1985,Tier1,3.87
+260,Jani PLC,Consulting,Nagaon,64155,2004,Tier2,8.33
+261,Deol Inc,IT,Vellore,60293,1995,Tier1,1.44
+262,Narula-Banik,Manufacturing,Secunderabad,29136,2019,Tier2,4.72
+263,Sridhar-Thaker,Manufacturing,Barasat,25583,2004,Tier3,5.51
+264,"Prasad, Das and Keer",Manufacturing,Tirupati,8898,2008,Tier3,7.25
+265,"Pandey, Chadha and Mahal",Manufacturing,Bettiah,62618,1990,Tier2,7.93
+266,Divan and Sons,Manufacturing,Faridabad,58450,2011,Tier2,3.32
+267,"Tailor, Banerjee and Vyas",Finance,Noida,1422,1997,Tier2,5.23
+268,Peri Inc,IT,Fatehpur,35037,2019,Tier3,3.73
+269,"Shenoy, Malhotra and Kulkarni",Consulting,Aurangabad,9863,1983,Tier1,2.44
+270,Malhotra-Lall,Manufacturing,Aurangabad,59739,2010,Tier3,7.8
+271,Narayanan Ltd,Consulting,Kottayam,90852,1983,Tier3,5.04
+272,Trivedi Group,Manufacturing,Srikakulam,48279,2020,Tier1,9.82
+273,Sodhi PLC,IT,Ahmedabad,58910,1996,Tier3,5.75
+274,"Sarin, Vaidya and Sur",Manufacturing,Karawal Nagar,80044,2011,Tier1,1.44
+275,Barad PLC,Finance,Jaunpur,63696,1980,Tier2,1.38
+276,Konda Group,Consulting,Kollam,55975,2000,Tier3,2.5
+277,Krish Ltd,Manufacturing,Haridwar,89572,2003,Tier2,7.18
+278,"Kashyap, Gopal and Arya",Consulting,Junagadh,22246,2005,Tier2,1.41
+279,Kannan-Jani,Consulting,Yamunanagar,29782,1998,Tier3,4.33
+280,Nagar and Sons,Consulting,Amroha,44649,2003,Tier1,3.53
+281,"Kashyap, Pingle and Shroff",Finance,Pimpri-Chinchwad,62137,1998,Tier3,6.49
+282,"Sagar, Naik and Varghese",Consulting,Etawah,8560,1985,Tier3,1.76
+283,"Chaudhuri, Mohan and Bera",Consulting,Pune,5837,1985,Tier2,8.04
+284,"Mittal, Shukla and Menon",IT,Rampur,87187,1986,Tier3,8.59
+285,Dixit PLC,IT,Bhatpara,44132,2012,Tier2,8.75
+286,Sahota-Randhawa,Finance,Unnao,70846,2009,Tier1,1.55
+287,"Sanghvi, Dani and Grover",Finance,Jalandhar,52997,2016,Tier2,1.27
+288,Kala LLC,Consulting,Delhi,43585,2016,Tier1,3.51
+289,Goel and Sons,IT,Ahmedabad,1305,2011,Tier3,3.97
+290,"Dua, Bhagat and Sundaram",Finance,Allahabad,58559,1995,Tier2,1.99
+291,"Kapadia, Basu and Mukhopadhyay",Finance,Pali,7059,2007,Tier2,4.9
+292,"Natarajan, Narain and Nagi",Consulting,Korba,66003,2000,Tier2,7.99
+293,Uppal-Basak,Manufacturing,Gopalpur,88014,2013,Tier1,1.45
+294,"Acharya, Seth and Grewal",IT,Morena,83219,2016,Tier1,5.42
+295,Talwar-Kannan,Finance,Ghaziabad,74452,2008,Tier2,7.66
+296,Yogi-De,Manufacturing,Kozhikode,95054,2003,Tier2,1.14
+297,"Luthra, Rege and Chokshi",Manufacturing,Latur,1192,1986,Tier3,9.67
+298,Ganesan Inc,Consulting,Mehsana,81915,2016,Tier1,2.85
+299,Parmer-Pant,Finance,Khammam,98914,1993,Tier1,6.71
+300,Mistry-Sen,IT,Miryalaguda,63866,1985,Tier3,8.12
+301,Bhatti and Sons,Consulting,Jamnagar,23552,1993,Tier2,5.47
+302,Andra-Kalita,Manufacturing,Vasai-Virar,37016,1983,Tier2,4.61
+303,"Sood, Rajan and Kaur",Consulting,Agartala,84905,1997,Tier3,8.3
+304,"De, Mall and Kothari",IT,Malegaon,4895,1990,Tier3,1.7
+305,"Keer, Barman and Hayre",Manufacturing,Patna,67780,2005,Tier1,2.14
+306,Butala Ltd,IT,Bhiwandi,84604,1985,Tier3,6.6
+307,Mistry-Baria,Manufacturing,Mangalore,25223,1990,Tier3,9.11
+308,"Dar, Dugar and Pant",Finance,Aizawl,56870,2017,Tier1,9.78
+309,"Datta, Srinivas and Sarkar",Consulting,Visakhapatnam,12648,2006,Tier3,6.62
+310,Sidhu and Sons,Finance,Ahmedabad,97530,2011,Tier3,1.8
+311,"Arora, Mall and Shankar",Consulting,Shimoga,49013,1987,Tier2,9.81
+312,Kumar and Sons,Manufacturing,Solapur,6735,1983,Tier2,4.3
+313,"Thaker, Kohli and Brar",Finance,Davanagere,10646,1991,Tier3,1.54
+314,Bhagat-Tak,Finance,Raiganj,70289,2001,Tier2,8.06
+315,"Yadav, Contractor and Som",Manufacturing,Kottayam,68899,2016,Tier2,9.42
+316,Nagy Inc,Consulting,Begusarai,96811,2001,Tier2,4.56
+317,Shroff and Sons,Manufacturing,Bikaner,87172,2013,Tier3,3.62
+318,"Borde, Choudhry and Bhagat",Consulting,Surat,44248,2002,Tier2,6.12
+319,Kashyap and Sons,Consulting,Karimnagar,38231,2008,Tier3,6.75
+320,Patel Ltd,Manufacturing,Thoothukudi,99690,1989,Tier3,3.86
+321,"Misra, Bahri and Choudhury",IT,Guna,18214,1985,Tier2,3.66
+322,"Nori, Kamdar and Chand",IT,Ozhukarai,23638,1986,Tier3,4.2
+323,Shenoy LLC,Finance,Purnia,88714,2016,Tier2,2.42
+324,Aurora-Krishnamurthy,Finance,Jodhpur,14204,1996,Tier2,5.8
+325,Borde Ltd,Consulting,Panihati,8994,1986,Tier3,4.88
+326,Randhawa-Warrior,Finance,Mahbubnagar,81148,1980,Tier1,1.9
+327,Sawhney LLC,Finance,Jalgaon,34888,2014,Tier2,4.52
+328,Kari-Datta,Consulting,Kharagpur,6753,2012,Tier3,9.43
+329,Sawhney and Sons,Manufacturing,Amaravati,42673,1999,Tier2,9.26
+330,Pant and Sons,IT,Jamnagar,60162,2004,Tier1,3.3
+331,Rege Ltd,Consulting,Howrah,84424,1983,Tier2,9.43
+332,"Parmar, Sampath and Solanki",IT,Bhiwandi,94061,1994,Tier2,6.85
+333,Khalsa-Majumdar,Manufacturing,Gudivada,79591,2000,Tier1,8.18
+334,Balasubramanian and Sons,Manufacturing,Korba,17098,2008,Tier3,8.29
+335,"Rama, Kapoor and Bhattacharyya",Finance,Rourkela,91301,1987,Tier3,8.01
+336,Dutt Ltd,Consulting,Jodhpur,22368,1998,Tier1,1.11
+337,"Bava, Dave and Chadha",Consulting,Medininagar,54490,1998,Tier2,4.77
+338,"Grewal, Naik and Joshi",IT,Satna,55967,2001,Tier1,8.32
+339,"Khanna, Agarwal and Venkataraman",IT,Shivpuri,21481,1993,Tier2,5.78
+340,Mammen-Rau,Consulting,Jaunpur,37994,1988,Tier3,8.09
+341,Chand-Banerjee,IT,Anand,22584,2010,Tier2,6.19
+342,Ghose PLC,Consulting,Madanapalle,29189,2000,Tier1,9.06
+343,Gupta Ltd,Finance,Jalandhar,59485,2015,Tier2,3.96
+344,Nadkarni-Raman,IT,Jabalpur,32589,1993,Tier3,8.6
+345,Garg-Khatri,Finance,Miryalaguda,40064,2005,Tier1,3.14
+346,Khalsa LLC,Consulting,Tirupati,9642,1992,Tier2,2.94
+347,Lala PLC,Consulting,Hospet,89771,2006,Tier1,8.23
+348,"Deep, Panchal and Chowdhury",Consulting,Vellore,84066,1994,Tier1,2.98
+349,"Rout, Muni and Sangha",Manufacturing,Amroha,46414,1996,Tier1,7.3
+350,Viswanathan LLC,Consulting,Kamarhati,62165,1997,Tier2,5.21
+351,Ray and Sons,Finance,Darbhanga,40531,2008,Tier1,4.9
+352,Bahl Inc,IT,Sasaram,52864,2011,Tier2,8.63
+353,Rajan-More,Finance,Chapra,7061,1983,Tier1,4.9
+354,Kari PLC,Manufacturing,Silchar,27631,2013,Tier1,9.82
+355,Deo-Prakash,IT,Bidhannagar,6118,2009,Tier3,8.48
+356,Sangha-Palan,Consulting,Bhubaneswar,33577,1993,Tier2,5.72
+357,Mutti-Bhatt,Manufacturing,Ramagundam,44623,2008,Tier3,1.89
+358,"Mahajan, Char and Buch",Finance,Anantapur,26582,1993,Tier1,4.5
+359,Ahuja and Sons,Finance,Katihar,65585,1980,Tier1,3.99
+360,"Gokhale, Chada and Gopal",IT,Indore,5919,1995,Tier1,4.53
+361,Varghese-Patil,Manufacturing,Hapur,16135,2003,Tier2,6.72
+362,Bhat-Nagi,Finance,Bhusawal,73929,1994,Tier2,7.28
+363,Balakrishnan-Behl,Manufacturing,Jamnagar,28033,1988,Tier1,5.82
+364,Pandey-Narayan,IT,Muzaffarnagar,34682,1994,Tier2,5.4
+365,"Khanna, Balay and Bhasin",Consulting,Buxar,8097,1986,Tier1,8.99
+366,Tandon Group,Consulting,Asansol,96089,2001,Tier1,9.0
+367,Sangha Group,Finance,Alwar,25884,2007,Tier3,1.75
+368,Bedi-Dhawan,Consulting,Jaunpur,73761,1991,Tier3,9.74
+369,"Sharaf, Venkatesh and Madan",IT,Ludhiana,32394,1988,Tier2,4.12
+370,Anand and Sons,IT,Ratlam,29627,2004,Tier3,1.75
+371,"Sahota, Ramesh and Mital",Consulting,Panihati,54428,1985,Tier1,9.93
+372,"Keer, Rau and Suri",IT,Muzaffarnagar,82530,2013,Tier2,9.56
+373,"Prasad, Sankaran and Choudhary",Manufacturing,Bikaner,33045,1980,Tier3,6.75
+374,Dada-Babu,IT,Siwan,30239,1991,Tier3,4.71
+375,Dass Group,IT,Jabalpur,33702,2009,Tier3,6.92
+376,"Kanda, Kohli and Dora",Manufacturing,Mango,90244,1984,Tier3,3.11
+377,"Srivastava, Desai and Mannan",Finance,Bhusawal,94618,1989,Tier3,4.21
+378,"Bahl, Modi and Oak",Consulting,Aizawl,71702,2009,Tier1,8.46
+379,Singh Ltd,Finance,Bidar,70404,1992,Tier1,9.45
+380,"Prabhu, Kuruvilla and Nagar",IT,Bally,68603,1988,Tier1,9.35
+381,"Mandal, Batra and Wali",IT,Ratlam,27119,1994,Tier1,8.33
+382,Venkataraman Inc,Manufacturing,Ramgarh,24112,2016,Tier1,4.69
+383,Vyas-Chaudhary,Manufacturing,Kulti,90168,1989,Tier2,8.47
+384,Prashad Ltd,IT,Bahraich,33359,2008,Tier3,2.52
+385,Warrior PLC,Finance,Ramagundam,8786,1994,Tier2,3.18
+386,"Bhargava, Swamy and Thakur",IT,Sultan Pur Majra,38435,1982,Tier2,8.23
+387,Devi Group,Finance,Shimoga,47874,2000,Tier3,3.55
+388,"Bhatt, Halder and Vala",Consulting,Darbhanga,62589,1982,Tier2,6.14
+389,"Gole, Parekh and Vig",Consulting,Amravati,70725,2000,Tier2,8.49
+390,Subramaniam-Chaudry,IT,Bijapur,19554,2000,Tier1,8.53
+391,Chada PLC,IT,Ghaziabad,16942,2007,Tier2,6.74
+392,"Puri, Luthra and Choudhury",IT,Jaunpur,69930,2010,Tier3,1.25
+393,Mandal-Gala,Manufacturing,Pimpri-Chinchwad,66640,2001,Tier1,9.52
+394,"Tank, Bedi and Suri",Manufacturing,Bathinda,39313,1981,Tier2,8.59
+395,Sani-Dutt,Consulting,Cuttack,88966,1993,Tier3,6.86
+396,"Kar, Wagle and Rana",Consulting,Kumbakonam,36362,2013,Tier1,4.7
+397,Dhillon-Hari,IT,Kolkata,79547,1995,Tier1,8.71
+398,"Kumar, Dash and Krishna",IT,Rajkot,86084,1986,Tier3,7.83
+399,"Choudhury, Jayaraman and Banerjee",IT,Kalyan-Dombivli,39831,1984,Tier1,2.72
+400,"Johal, Sha and Misra",Consulting,Kirari Suleman Nagar,69177,1999,Tier1,3.24
+401,Konda Ltd,Consulting,Udupi,97505,1987,Tier1,1.98
+402,Divan-Dar,Finance,Tadipatri,2463,1990,Tier2,8.65
+403,Munshi and Sons,Finance,Motihari,44138,1985,Tier1,6.65
+404,"Nagar, Palla and Nagi",IT,Madhyamgram,92102,1980,Tier1,2.74
+405,Vora-Amble,Consulting,Unnao,30925,2014,Tier1,2.3
+406,"Kulkarni, Patil and Kalla",Manufacturing,Karaikudi,41131,2018,Tier3,2.87
+407,Seshadri Ltd,Manufacturing,Mira-Bhayandar,13183,1980,Tier2,6.02
+408,Gandhi and Sons,Finance,Ozhukarai,26309,1999,Tier1,3.12
+409,Anand-Madan,Consulting,Kochi,58477,1987,Tier3,4.37
+410,"Hayre, Bassi and Khurana",Consulting,Dhanbad,41712,2001,Tier3,6.2
+411,Seshadri Ltd,IT,Baranagar,50978,1990,Tier3,1.8
+412,Choudhary-Naik,Finance,Naihati,24511,2007,Tier1,6.66
+413,Sarma Ltd,Consulting,Haridwar,56754,2010,Tier1,1.29
+414,"Dewan, Wadhwa and Arya",Consulting,Jamnagar,26244,2019,Tier2,4.34
+415,Gupta-Grover,Consulting,Bongaigaon,55550,2006,Tier1,1.7
+416,"Edwin, Kamdar and Deol",Manufacturing,Miryalaguda,4682,2009,Tier1,4.25
+417,"Goyal, Iyengar and Jaggi",IT,Chittoor,41978,1980,Tier3,4.76
+418,Aurora LLC,IT,Warangal,30747,1995,Tier1,8.28
+419,"Wagle, Gupta and Sunder",Finance,Dibrugarh,93092,2007,Tier1,1.57
+420,"Acharya, Dora and Oak",Consulting,Purnia,85324,2011,Tier1,9.88
+421,Mallick LLC,Finance,Amaravati,21984,2009,Tier2,2.01
+422,Mangal-Nagarajan,Consulting,Imphal,2592,1994,Tier3,4.36
+423,Khosla-Kale,Manufacturing,Phusro,52332,1984,Tier1,2.89
+424,"Chokshi, Murty and Chada",Consulting,Motihari,40071,2001,Tier3,5.56
+425,"Venkataraman, Naik and Chaudhary",Manufacturing,Gandhinagar,4230,1983,Tier3,9.97
+426,Devan-Butala,Consulting,Udupi,10112,2017,Tier3,9.76
+427,Borra-Mahal,IT,Eluru,91503,2019,Tier1,4.6
+428,"Saha, Dhillon and Din",Finance,Ahmedabad,51531,2003,Tier1,1.52
+429,Mohanty PLC,Finance,Vasai-Virar,46539,2009,Tier2,2.9
+430,"Pillai, Date and Sachdeva",Manufacturing,Nangloi Jat,28288,2015,Tier2,7.06
+431,"Saraf, Das and Kuruvilla",Consulting,Akola,27139,2014,Tier2,8.72
+432,Grover-Patla,Finance,Nangloi Jat,92239,1985,Tier1,2.82
+433,"Kar, Deol and Kota",IT,Ambattur,40248,1985,Tier2,2.59
+434,"Mandal, Pillai and Goswami",Finance,Chinsurah,38139,1986,Tier3,9.56
+435,Chaudhary and Sons,IT,Nizamabad,82303,2003,Tier1,9.06
+436,Sheth LLC,IT,Bokaro,48575,1995,Tier3,7.97
+437,Bali and Sons,Consulting,Jamshedpur,4237,1991,Tier2,7.12
+438,"Bal, Loyal and Mitra",Finance,Bardhaman,25792,2008,Tier2,7.57
+439,"Jain, Agrawal and Gandhi",IT,Agartala,36251,1988,Tier1,5.21
+440,Kari Group,Manufacturing,Danapur,52774,1984,Tier1,8.8
+441,Kibe-Tara,Finance,Danapur,97006,2005,Tier1,6.95
+442,Garde-Ramachandran,IT,Unnao,2827,2003,Tier1,3.77
+443,Borde-Aurora,IT,Satara,70537,2016,Tier3,4.14
+444,Oza-Shan,IT,Madhyamgram,17834,1994,Tier1,6.35
+445,Virk-Balay,IT,Kakinada,20952,1981,Tier2,9.14
+446,"Nayar, Varty and Balasubramanian",IT,Silchar,63356,1995,Tier1,2.37
+447,Mani-Lala,Finance,Singrauli,28596,1995,Tier2,2.67
+448,"Kaul, Gaba and Sidhu",IT,Silchar,53277,2010,Tier2,6.67
+449,Char-Magar,Finance,Karawal Nagar,77612,2007,Tier2,8.77
+450,Kaur Inc,Manufacturing,Bhimavaram,48525,1990,Tier3,3.82
+451,Vyas Ltd,Manufacturing,Bahraich,19441,1994,Tier2,8.57
+452,Lala Group,IT,Kurnool,54130,2019,Tier1,2.67
+453,Yohannan-Som,Consulting,Jalna,21624,2006,Tier2,6.74
+454,"Agrawal, Patla and Shanker",Consulting,Guna,8261,2017,Tier3,1.87
+455,Patla-Iyengar,Finance,Tirupati,65477,2018,Tier3,1.61
+456,"Balan, Nath and Tella",Consulting,Shimoga,72205,1983,Tier3,4.13
+457,Sanghvi and Sons,Consulting,Udupi,82980,2015,Tier1,2.61
+458,Pradhan Inc,Consulting,Phagwara,97823,1999,Tier2,1.92
+459,Jha-Iyer,Consulting,Haridwar,63453,2015,Tier1,4.38
+460,Sant Ltd,IT,Haldia,82540,2019,Tier3,4.91
+461,Sahota Ltd,Finance,Dharmavaram,27405,1996,Tier2,4.47
+462,Narayanan Group,Finance,Silchar,15340,1992,Tier2,1.96
+463,Sodhi-Bhalla,Manufacturing,Jamshedpur,89194,2003,Tier1,1.85
+464,Peri-Dhaliwal,Finance,Yamunanagar,38273,1988,Tier3,4.28
+465,Gade-Biswas,Consulting,Morena,48038,2007,Tier1,3.64
+466,Kumer Group,Manufacturing,Lucknow,64449,1999,Tier1,1.26
+467,Golla PLC,Manufacturing,Yamunanagar,81006,1993,Tier1,7.48
+468,"Chawla, Lad and Rajagopal",Finance,Aligarh,11336,1983,Tier1,7.33
+469,Loke-Muni,Manufacturing,Siliguri,2293,2016,Tier3,6.07
+470,Nazareth Group,Consulting,Malda,45679,2002,Tier2,8.63
+471,Patla Group,Consulting,Thanjavur,55955,2008,Tier2,6.94
+472,"Subramanian, Choudhry and Shere",Manufacturing,Jalandhar,19136,1982,Tier1,4.33
+473,Kaul-Keer,Finance,Amritsar,20394,1990,Tier3,4.89
+474,Setty Group,Finance,Panchkula,16753,2000,Tier2,4.86
+475,Naidu PLC,Finance,Ahmedabad,21948,1983,Tier2,3.17
+476,Devi-Padmanabhan,Finance,Kota,14445,1982,Tier3,6.6
+477,Mahajan-Bose,Manufacturing,New Delhi,91234,2018,Tier3,7.95
+478,"Vohra, Ram and Shukla",Consulting,Barasat,21536,2002,Tier1,5.4
+479,"Wagle, Raja and Murty",Finance,Bikaner,86856,2003,Tier1,5.86
+480,"Sehgal, Jaggi and Gill",Finance,Udaipur,42763,2009,Tier1,3.96
+481,Sandal and Sons,IT,Farrukhabad,27672,1993,Tier3,4.77
+482,Dass LLC,Manufacturing,Bhopal,25697,1994,Tier1,5.64
+483,Sheth Ltd,Consulting,Rajpur Sonarpur,22847,1994,Tier2,7.2
+484,Bakshi-Biswas,IT,Anand,81306,2007,Tier3,3.68
+485,Dave PLC,IT,Panipat,54317,2017,Tier2,6.26
+486,"Bala, Nagi and Kari",Consulting,Nangloi Jat,95742,1998,Tier3,5.46
+487,Virk-Sen,IT,Buxar,96072,2012,Tier1,5.81
+488,Krish Inc,Finance,Dibrugarh,63871,1994,Tier1,4.87
+489,"Rana, Jhaveri and Vasa",Consulting,Dhule,86656,1992,Tier3,8.59
+490,Parikh Ltd,IT,Madanapalle,45593,1996,Tier3,5.87
+491,Ravi Inc,IT,Bhatpara,25428,2008,Tier2,4.29
+492,Sani and Sons,Finance,Sambalpur,56857,2000,Tier1,1.47
+493,Bava Group,Manufacturing,Hazaribagh,94330,2001,Tier3,7.35
+494,Narula and Sons,Finance,Sasaram,88031,1992,Tier2,5.39
+495,"Sachdev, Sankaran and Halder",Manufacturing,Surendranagar Dudhrej,25667,1982,Tier1,4.69
+496,Ramakrishnan-Kala,IT,Kota,23076,2009,Tier2,4.04
+497,"Jani, Tank and De",Consulting,Udupi,32402,2010,Tier3,1.39
+498,"Taneja, Lalla and Baral",Consulting,Solapur,95833,2009,Tier3,4.86
+499,Sarraf-Gade,Consulting,Bulandshahr,27238,2018,Tier1,4.02
+500,Kothari PLC,IT,Madanapalle,44949,2003,Tier3,7.34

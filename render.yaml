@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: placement-intelligence-apex
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "bash start.sh"

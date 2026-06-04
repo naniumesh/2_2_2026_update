@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+google-generativeai
+PyJWT
+PyPDF2
+streamlit-audiorecorder
+sklearn.ensemble 
+cv2
+speech_recognition 
+textblob
+pydub
