@@ -7,7 +7,7 @@ PyJWT
 PyPDF2
 streamlit-audiorecorder
 scikit-learn
-cv2
-speech_recognition 
+opencv-python-headless
+SpeechRecognition
 textblob
 pydub
